@@ -1,6 +1,6 @@
-# FinTrust
+# SecureFunds
 
-FinTrust is a comprehensive online banking platform designed to provide users with secure and efficient financial services. Built with a robust backend and an intuitive frontend, FinTrust ensures seamless banking experiences for both administrators and customers.
+SecureFunds is a comprehensive online banking platform designed to provide users with secure and efficient financial services. Built with a robust backend and an intuitive frontend, FinTrust ensures seamless banking experiences for both administrators and customers.
 
 ## Features
 
@@ -72,7 +72,7 @@ bash
 Copy
 Edit
 npm start
-🧪 Testing
+Testing
 Backend:
 
 Unit tests using JUnit and Mockito.
